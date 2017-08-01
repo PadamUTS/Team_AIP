@@ -1,5 +1,4 @@
 This is Padam Chhavi group task.
 Hello this is Chhavi.
 Hello Chhavi, How are you? 
-second line from chhavi.
-gfdgdhgd
+Padam resolved the conflict. Writing line for Chhavi to resolve conflict now.
